@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app';
+  title = 'Continuous Intgeration';
 }
+
+/* 1/CWnQlk3XAmJhEuLHup_qqUaCUdFPK95ifZNWITlZKFRLi3KZKFOlyiqU9-lRwLZL */
+//Example: firebase deploy --token "$FIREBASE_TOKEN"
