@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Continuous Intgeration';
+  title = 'Continuous Intgeration Begins';
 }
 
 /* 1/CWnQlk3XAmJhEuLHup_qqUaCUdFPK95ifZNWITlZKFRLi3KZKFOlyiqU9-lRwLZL */
